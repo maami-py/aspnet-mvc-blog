@@ -127,6 +127,7 @@
   <ItemGroup>
     <Folder Include="template\.vs\template\FileContentIndex\merges\" />
     <Folder Include="template\.vs\template\v17\" />
+    <Folder Include="Views\Shared\Categories and Tags\" />
     <Folder Include="wwwroot\template\.vs\template\FileContentIndex\merges\" />
     <Folder Include="wwwroot\template\.vs\template\v17\" />
   </ItemGroup>
